@@ -1,4 +1,4 @@
-# Book Store application live :
+# Movies application live :
 
 https://65479a1f30cd2a4bf9448acd--comforting-crepe-e00783.netlify.app/
 
